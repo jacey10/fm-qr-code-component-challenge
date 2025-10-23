@@ -78,14 +78,17 @@ main p {
 /* ==== Media queries for larger screens ====*/
 
 @media screen and (min-width:43.75rem) {
-  body {
+  /*body {
     line-height: 1.3;
-  }
+  }*/
+  
   main {
    width: 40%;
    max-width: 20rem;
    height: auto;
    padding: 1rem;
+   margin-block-start: 0.5rem;
+   writing-mode: horizontal-tb;
   }
 
   img {
@@ -104,7 +107,7 @@ main p {
     font-size: 1em;
     max-width: 84%;
     margin: 0 auto;
-    margin-block-end: 1rem;
+    margin-block-end: 1.2rem;
     writing-mode: horizontal-tb;
   }
 }
