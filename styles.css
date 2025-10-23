@@ -80,17 +80,27 @@ main p {
 @media screen and (min-width:43.75rem) {
   main {
    width: 40%;
-   max-width: 16rem;
+   max-width: 20rem;
    height: auto;
    padding: 1rem;
   }
 
+  img {
+    min-height: 20rem;
+  }
+
   h1 {
-   font-size: 1.2em;
+   font-size: 1.4em;
+   max-width: 86%;
+   margin: 0 auto;
+   margin-block-end: 1rem;
+   writing-mode: horizontal-tb;
   }
 
   main p {
-    font-size: 0.8em;
+    font-size: 1em;
+    max-width: 84%;
+    margin: 0 auto;
     margin-block-end: 1rem;
     writing-mode: horizontal-tb;
   }
