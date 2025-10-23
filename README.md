@@ -11,9 +11,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Acknowledgement]
+  - [Acknowledgement](#acknowledgement)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -45,12 +44,12 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ## Author
 - Website - [James Chima](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jacey10)
+- Frontend Mentor - [@jacey10](https://www.frontendmentor.io/profile/jacey10)
 - Twitter - [@jacey_opara](https://x.com/jacey_opara)
 
 
-## Acknowledgments
-My sincere appreciation goes out to all members of the Frontend Mentor community who have been posting corrections to projects solutions. My project was perfect on desktop but it wasn't responsive and I didn't know what to do. Then I went through several submissions made by others and took note of the corrections given to them. Some of the corrections include,
+## Acknowledgement
+My sincere appreciation goes to all members of the Frontend Mentor community who have been posting corrections to projects solutions. My project was perfect on desktop but it wasn't responsive and I didn't know what to do. Then I went through several submissions made by others and took note of the corrections given to them. Some of the corrections include,
 
 - removing divs and using semantic HTML
 - replacing fixed units (px) with rem and em
