@@ -31,9 +31,9 @@ body {
 main {
   background-color: var(--color-white); 
   width: 90%;
-  max-width: 24rem;
+  max-width: 26rem;
   border-radius: 1rem;
-  padding: 1.5rem;
+  padding: 1rem;
 }
 
 img {
@@ -47,7 +47,7 @@ img {
 
 h1 {
   color: var(--color-slate-900);
-  font-size: 1.8em;
+  font-size: 1.6em;
   font-weight: 700;
   /*margin-bottom: 1rem;*/
   margin-block-end: 1rem;
@@ -57,7 +57,7 @@ h1 {
 
 main p {
   color: var(--color-slate-500);
-  font-size: 1.3em;
+  font-size: 1.2em;
   font-weight: 400;
   /*margin-bottom: 1rem;*/
   margin-block-end: 1rem;
@@ -90,7 +90,8 @@ main p {
   }
 
   main p {
-    font-size: 0.9em;
-    margin: 0 auto;
+    font-size: 0.8em;
+    margin-block-end: 1rem;
+    writing-mode: horizontal-tb;
   }
 }
