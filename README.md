@@ -32,7 +32,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 
 ### What I learned
-- I learned that using semantic HTML rather than <div> is best for accessibility.
+- I learned that using semantic HTML rather than non-semantic HTML such as divs is best for accessibility.
 - I learned that fixed units such as pixels (px) isn't good for building responsive layouts, so I used rem and em where necessary.
 - I also learned how to centre items using CSS Flexbox instead of just setting left and right-margin as auto.
 
