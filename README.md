@@ -43,9 +43,10 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 
 ## Author
-- Website - [James Chima](https://www.your-site.com)
+
+- Website - [Jacey Blog](https://www.jacey.hashnode.dev/)
 - Frontend Mentor - [@jacey10](https://www.frontendmentor.io/profile/jacey10)
-- Twitter - [@jacey_opara](https://x.com/jacey_opara)
+- Twitter - [@jacey_muna](https://x.com/jacey_muna)
 
 
 ## Acknowledgement
